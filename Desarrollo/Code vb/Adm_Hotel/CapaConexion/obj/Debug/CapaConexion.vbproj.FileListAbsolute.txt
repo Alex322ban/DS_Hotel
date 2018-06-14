@@ -1,0 +1,2 @@
+c:\users\fchoquecota\documents\visual studio 2015\Projects\Adm_Hotel\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\fchoquecota\Documents\GitHub\DS2\Desarrollo\Code vb\Adm_Hotel\CapaConexion\bin\Debug\CapaConexion.exe.config
