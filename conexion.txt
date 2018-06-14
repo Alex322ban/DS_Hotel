@@ -1,0 +1,2 @@
+    'Dim cn As New SqlConnection("data source =.; initial catalog = bddulcecine;user id = sa;  password = alumno;")
+    Public cn As New SqlConnection("data source=(local)\SQLEXPRESS;initial catalog=bddulcecine; integrated security=yes")
